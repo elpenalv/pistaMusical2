@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<puntuaciones>
+    <jugador>
+        <nombre>an</nombre>
+        <puntuacion>0</puntuacion>
+    </jugador>
+    <jugador>
+        <nombre>sad</nombre>
+        <puntuacion>5</puntuacion>
+    </jugador>
+    <jugador>
+        <nombre>aaa</nombre>
+        <puntuacion>1</puntuacion>
+    </jugador>
+    <jugador>
+        <nombre>sss</nombre>
+        <puntuacion>30</puntuacion>
+    </jugador>
+</puntuaciones>
